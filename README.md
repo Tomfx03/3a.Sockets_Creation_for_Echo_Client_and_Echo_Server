@@ -1,5 +1,5 @@
-# Develop By : Aravind kumar SS
-# Reg No : 212223110004
+# Develop By : TOM FRANCIES XAVIOUR L
+# Reg No : 212223110060
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
 # AIM:
 To write a python program for creating Echo Client and Echo Server using TCP
